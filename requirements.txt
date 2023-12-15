@@ -1,6 +1,1 @@
-earthengine-api
-geemap
-ipywidgets
-pillow
-tqdm
 voila
