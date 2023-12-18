@@ -1,5 +1,4 @@
-jupyterlab==3.0.0
-voila==0.2.10
+voila
 earthengine-api
 geemap
 ipywidgets
