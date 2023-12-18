@@ -1,3 +1,4 @@
+voila
 earthengine-api
 geemap
 ipywidgets
